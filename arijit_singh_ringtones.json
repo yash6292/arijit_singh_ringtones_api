@@ -59,10 +59,108 @@
     },
     {
       "id": "1",
-      "ringtone_name": "Fitoor",
-      "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/Fitoor_Hindi_Film_Poster.jpeg",
+      "ringtone_name": "Tera Ishq Mera Fitoor",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Tera Ishq Mera Fitoor.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/Fitoor_Ringtone-1424.mp3",
       "file": "Fitoor_Ringtone-1424.mp3"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Chal Ghar Chale",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/chal_ghar_chale.mp3",
+      "file": "chal_ghar_chale.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/-chal-ghar-chalen.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Dil Royi Jaye",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/dil_royi_jaye.mp3",
+      "file": "dil_royi_jaye.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Dil-Royi-Jaye.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Sanam Re",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/sanam_re.mp3",
+      "file": "sanam_re.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Sanam-Re.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Agar Tum Sath",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/agar_tum_saath_ho.mp3",
+      "file": "agar_tum_saath_ho.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/agar tum sath.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Dil Me Ho Tum - Instrument",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/chal_diye_instrument.mp3",
+      "file": "chal_diye_instrument.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/chal diye.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Tera Fitoor",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/tera_fitoor.mp3",
+      "file": "tera_fitoor.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/tera fittor.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Tere Hawaale",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/tere_hawaale_arijit.mp3",
+      "file": "tere_hawaale_arijit.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/tere havale.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Tu Hi Yaar Mera",
+      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/tu_hi_yaar_mera.mp3",
+      "file": "tu_hi_yaar_mera.mp3",
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/tu hi yaar mera.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "O Bedardeya",
+      "ringtone_url": "https://yash6292.github.io/bollywood_ringtones_data/O Bedardeya.mp3",
+      "file": "O Bedardeya.mp3",
+      "thumbnail": "https://yash6292.github.io/bollywood_ringtones_data/O-Bedardeya.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Tu Mera Ho Gaya",
+      "ringtone_url": "https://yash6292.github.io/bollywood_ringtones_data/Tu Mera Ho Gaya.mp3",
+      "file": "Tu Mera Ho Gaya.mp3",
+      "thumbnail": "https://yash6292.github.io/bollywood_ringtones_data/Tu-Mera.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Chhod Diya Woh Aaina",
+      "ringtone_url": "https://yash6292.github.io/bollywood_ringtones_data/Door-Hu-Main.mp3",
+      "file": "Door-Hu-Main.mp3",
+      "thumbnail": "https://yash6292.github.io/bollywood_ringtones_data/chhod-diya-arijit-singh-baazaar_medium.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Girl I Need You",
+      "ringtone_url": "https://yash6292.github.io/bollywood_ringtones_data/Girl I Need You.mp3",
+      "file": "Girl I Need You.mp3",
+      "thumbnail": "https://yash6292.github.io/bollywood_ringtones_data/girl i.webp"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Kesariya",
+      "ringtone_url": "https://yash6292.github.io/bollywood_ringtones_data/Kesariya.mp3",
+      "file": "Kesariya.mp3",
+      "thumbnail": "https://yash6292.github.io/bollywood_ringtones_data/Kesariya.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Javo Le Javo Nid Meri",
+      "ringtone_url": "https://yash6292.github.io/bollywood_ringtones_data/Javo Le Javo Nid Meri.mp3",
+      "file": "Javo Le Javo Nid Meri.mp3",
+      "thumbnail": "https://yash6292.github.io/bollywood_ringtones_data/lo-maan-liya.jpg"
     }
   ]
 }
