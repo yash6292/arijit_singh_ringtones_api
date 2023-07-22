@@ -129,13 +129,6 @@
     },
     {
       "id": "1",
-      "ringtone_name": "Tu Mera Ho Gaya",
-      "ringtone_url": "https://yash6292.github.io/bollywood_ringtones_data/Tu Mera Ho Gaya.mp3",
-      "file": "Tu Mera Ho Gaya.mp3",
-      "thumbnail": "https://yash6292.github.io/bollywood_ringtones_data/Tu-Mera.jpg"
-    },
-    {
-      "id": "1",
       "ringtone_name": "Chhod Diya Woh Aaina",
       "ringtone_url": "https://yash6292.github.io/bollywood_ringtones_data/Door-Hu-Main.mp3",
       "file": "Door-Hu-Main.mp3",
@@ -161,6 +154,13 @@
       "ringtone_url": "https://yash6292.github.io/bollywood_ringtones_data/Javo Le Javo Nid Meri.mp3",
       "file": "Javo Le Javo Nid Meri.mp3",
       "thumbnail": "https://yash6292.github.io/bollywood_ringtones_data/lo-maan-liya.jpg"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Mahi Bolna",
+      "ringtone_url": "https://yash6292.github.io/bollywood_ringtones_data/Mahi Bolna.mp3",
+      "file": "Mahi Bolna.mp3",
+      "thumbnail": "https://yash6292.github.io/bollywood_ringtones_data/Bolna.jpg"
     }
   ]
 }
