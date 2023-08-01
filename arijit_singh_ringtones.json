@@ -192,13 +192,6 @@
     },
     {
       "id": "1",
-      "ringtone_name": "Tu Hi Yaar Mera",
-      "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Ek Tu Hi Yaar Mera ! Tu Hi Yaar Mera Song ! Arijit Singh.mp3",
-      "file": "Ek Tu Hi Yaar Mera ! Tu Hi Yaar Mera Song ! Arijit Singh.mp3",
-      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Ek Tu Hi Yaar Mera.jpg"
-    },
-    {
-      "id": "1",
       "ringtone_name": "Ijazat",
       "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Ek baat kahu kya ijazat hai.mp3",
       "file": "Ek baat kahu kya ijazat hai.mp3",
@@ -433,7 +426,7 @@
       "ringtone_name": "Tumhe Kitna Pyar Karte",
       "ringtone_url": "https://yash6292.github.io/arijit_singh_song_data/Tumhe Kitna Pyar Karte - Bawaal ! Hindi.mp3",
       "file": "Tumhe Kitna Pyar Karte - Bawaal ! Hindi.mp3",
-      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Tumhe Kitna Pyar Karte - Bawaal ! Hindi.jpg"
+      "thumbnail": "https://yash6292.github.io/arijit_singh_song_data/Tumhe Kitna Pyar Karte.jpg"
     }
   ]
 }
