@@ -11,16 +11,16 @@
     "banner_ad_id": "/229445249,22889861963/DWTag-DFPNew_RS90_ArijitSinghSongRingtones_AmdavadiInfotech_Banner_230823_InApp",
     "isNotAdd": true,
     "getStarted": false,
-    "ringtoneListMain": false,
+    "ringtoneListMain": true,
     "ringtoneListBack": false,
     "setViewMain": true,
-    "setViewBack": true,
-    "ringtonePlayerBack": true,
-    "favouriteRingMain": true,
+    "setViewBack": false,
+    "ringtonePlayerBack": false,
+    "favouriteRingMain": false,
     "favouriteRingBack": false,
-    "exitDialog": false,
+    "exitDialog": true,
     "changeTheme": false,
-    "bottomBarBack": true,
-    "goToFavourite": false
+    "bottomBarBack": false,
+    "goToFavourite": true
   }
 }
