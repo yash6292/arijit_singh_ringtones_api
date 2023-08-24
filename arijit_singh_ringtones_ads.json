@@ -20,7 +20,7 @@
     "favouriteRingBack": true,
     "exitDialog": true,
     "changeTheme": false,
-    "bottomBarBack": false,
+    "bottomBarBack": true,
     "goToFavourite": true
   }
 }
