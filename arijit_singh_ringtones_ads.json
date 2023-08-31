@@ -7,7 +7,7 @@
     "app_version": "1.0.3",
     "open_ad_id": "/229445249,22889861963/DWTag-DFPNew_RS90_ArijitSinghSongRingtones_AmdavadiInfotech_AppOpen_230823_InApp",
     "inter_ad_id": "/229445249,22889861963/DWTag-DFPNew_RS90_ArijitSinghSongRingtones_AmdavadiInfotech_Interstitial_230823_InApp",
-    "native_ad_id": "/229445249,22889861963/DWTag-DFPNew_RS90_ArijitSinghSongRingtones_AmdavadiInfotech_Native_230823_InApp",
+    "native_ad_id": "/229445249,22889861963/DWTag-DFPNew_RS90_ArijitSinghSongRingtones_AmdavadiInfotech_Native_230823_InAppInApp",
     "banner_ad_id": "/229445249,22889861963/DWTag-DFPNew_RS90_ArijitSinghSongRingtones_AmdavadiInfotech_Banner_230823_InApp",
     "isNotAdd": true,
     "getStarted": false,
@@ -15,12 +15,12 @@
     "ringtoneListBack": true,
     "setViewMain": false,
     "setViewBack": false,
-    "ringtonePlayerBack": true,
+    "ringtonePlayerBack": false,
     "favouriteRingMain": false,
-    "favouriteRingBack": true,
+    "favouriteRingBack": false,
     "exitDialog": false,
-    "changeTheme": true,
-    "bottomBarBack": true,
+    "changeTheme": false,
+    "bottomBarBack": false,
     "goToFavourite": true
   }
 }
