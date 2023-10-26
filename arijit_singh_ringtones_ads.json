@@ -1,14 +1,14 @@
-{
+7{
   "status": "success",
   "data": {
     "adsclicklimit": "1",
     "appTitle": "Arijit Singh Song Ringtones",
     "appUrl": "https://play.google.com/store/apps/details?id=com.arijit.singh.song.ringtones",
     "app_version": "1.0.4",
-    "open_ad_id": "/229445249,22889861963/DWTag-DFPNew_RS90_ArijitSinghSongRingtones_AmdavadiInfotech_AppOpen_230823_InApp",
-    "inter_ad_id": "/229445249,22889861963/DWTag-DFPNew_RS90_ArijitSinghSongRingtones_AmdavadiInfotech_Interstitial_230823_InApp",
-    "native_ad_id": "/229445249,22889861963/DWTag-DFPNew_RS90_ArijitSinghSongRingtones_AmdavadiInfotech_Native_230823_InApp",
-    "banner_ad_id": "/229445249,22889861963/DWTag-DFPNew_RS90_ArijitSinghSongRingtones_AmdavadiInfotech_Banner_230823_InApp",
+    "open_ad_id": "",
+    "inter_ad_id": "",
+    "native_ad_id": "",
+    "banner_ad_id": "",
     "isNotAdd": true,
     "getStarted": false,
     "ringtoneListMain": true,
